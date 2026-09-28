@@ -2,7 +2,7 @@
 
 ### 🔌 Amateur in Electronics
 * 🎨 **3D Design:** Proficient in creating physical models using **Autodesk Fusion**.
-* 📻 **Hardware:** Hands-on experience building with **ESP32** microcontrollers, **ELRS** protocols, and custom receiver configurations.
+* 📻 **Hardware:** Hands-on experience building with **ESP32** microcontrollers, **Raspberry Pi**, **ELRS** protocols, and custom receiver configurations.
 
 
 ### Things I code with
